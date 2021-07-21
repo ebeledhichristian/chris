@@ -1,0 +1,55 @@
+body{
+    background:orangered;
+}
+.divs{
+    height: 150px;
+    width: 1260px;
+    background-color: rgb(234, 63, 0);
+}
+.imagess{
+    height:100px;
+    margin-top: 20px;
+    margin-left: 20px;
+    width:120px;
+    border-radius:50px;
+    float: left;
+}
+.navbar{
+    float:right;
+    height:30px;
+    width:150px;
+    color: black;
+    padding-top: 15px;
+    text-align: center;
+}
+.navbar:hover{
+    height:30px;
+    width:150px;
+    background-color: lawngreen;
+    border-radius: 20px;
+}
+.inp{
+    height: 25px;
+    width: 900px;
+    margin-left: 50px;
+    border:2px solid blue;
+}
+.inp:hover{
+    height: 25px;
+    width: 900px;
+    background-color: greenyellow;
+}
+.log{
+    height: 30px;
+    width: 150px;
+    background-color: lawngreen;
+    border: 1px solid red;
+    margin-left: 500px;
+    margin-top: 25px;
+    color: black;
+    text-decoration-line: none;
+}
+.log:hover{
+    background-color: black;
+    color: lawngreen;
+}
